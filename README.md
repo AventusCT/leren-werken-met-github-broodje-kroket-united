@@ -5,5 +5,5 @@
 
 ## beschrijving 
 dit project bevat een eenvoudige webpagina  met een tabel van fictieve personen en een  ongeorgende lijst met hobby`s
-het project bevat ook een CSS-bestand  voor de opmaak van de pagina adasdsadasdas
+het project bevat ook een CSS-bestand  voor de opmaak van de pagina. 
 
